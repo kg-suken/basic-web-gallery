@@ -10,6 +10,11 @@ Webサーバーにphpとassetsをアップロードします。
 
 ## その他
 
-デザインはLightBoxを利用しました。:https://lokeshdhakar.com/projects/lightbox2/
+デザイン
+
+LightBox:https://lokeshdhakar.com/projects/lightbox2/
+
+動くWebデザインアイディア帳:https://ugokuweb.coco-factory.jp/
+
 
 制作:sskrc
