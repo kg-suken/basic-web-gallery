@@ -7,18 +7,18 @@ phpによって./img/内のファイルをスキャンしWebページを生成�
 
 
 ## 使いかた
-phpが動作するWebサーバーをセットアップします
-
-Webサーバーにphpとassetsをアップロードします。
+phpが動作するWebサーバーをセットアップします。  
+Webサーバーにphpとassetsをアップロードします。  
 
 ## その他
+```
+<a href='./img/$file' data-lightbox='gallery3' data-title='$Description'><img src='./img-low/$file' alt=''>
+```  
+に変更すること、低画質版をimg-lowディレクトリに入れ、オリジナルをimgディレクトリに入れることで、通信量を削減することができます。
 
-デザイン
-
-LightBox:https://lokeshdhakar.com/projects/lightbox2/
-
-動くWebデザインアイディア帳:https://ugokuweb.coco-factory.jp/
-
+デザイン  
+LightBox:https://lokeshdhakar.com/projects/lightbox2/  
+動くWebデザインアイディア帳:https://ugokuweb.coco-factory.jp/  
 
 ## 制作
 **sskrc**
