@@ -2,6 +2,9 @@
 
 ##
 phpによって./img/内のファイルをスキャンしWebページを生成します
+<br><img src="https://github.com/user-attachments/assets/1cd7495f-0013-461b-b37b-3a61a6b3f23f" width="500"/>
+
+
 
 ## 使いかた
 phpが動作するWebサーバーをセットアップします
